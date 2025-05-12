@@ -165,6 +165,7 @@ export default defineConfig({
                 items: [
                     {text: 'সারসংক্ষেপ', link: '/conclusion/summary'},
                     {text: 'রিসোর্স', link: '/conclusion/resources'},
+                    { text: '', link: '/conclusion/git-commands-cheatsheet' },
                 ]
             }
         ],
